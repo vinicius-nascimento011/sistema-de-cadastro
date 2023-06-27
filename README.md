@@ -4,5 +4,5 @@ Status do projeto: Em andamento
 
 >Para rodar o projeto, por favor digite:
 ```
-npm install react
+node app.js
 ```
